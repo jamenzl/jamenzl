@@ -8,9 +8,9 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jamenzl/ticket-lifecycle)
 - <b>Active Directory</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/jamenzl/configure-ad)
-  - [Deploying Active Directory](https://github.com/jamenzl/configure-ad)
-  - [Creating Users with PowerShell](https://github.com/jamenzl/configure-ad)
-  - [Group Policy and Managing Accounts](https://github.com/jamenzl/configure-ad)
+  - [Deploying Active Directory](https://github.com/jamenzl/deploy-ad)
+  - [Creating Users with PowerShell](https://github.com/jamenzl/create-users-ad)
+  - [Group Policy and Managing Accounts](https://github.com/jamenzl/manage-ad)
 
 <h2>🤳Connect with me:</h2>
 
