@@ -20,4 +20,4 @@
 
 
 
-[linkedin]: src="https://www.linkedin.com/in/jack-menzl-63515a1b9/"
+[linkedin]: href="https://linkedin.com/in/jack-menzl-63515a1b9""
