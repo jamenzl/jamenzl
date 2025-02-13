@@ -11,7 +11,8 @@
   - [Deploying Active Directory](https://github.com/jamenzl/deploy-ad)
   - [Creating Users with PowerShell](https://github.com/jamenzl/create-users-ad)
   - [Group Policy and Managing Accounts](https://github.com/jamenzl/manage-ad)
-
+- <b>Network File Shares and Permissions</b>
+  - [Permissions and Sharing](https://github.com/jamenzl/permissions-fs)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
