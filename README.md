@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jack, an <a href="https://linkedin.com/in/jack-menzl-63515a1b9">IT Technician</a>☺</h1>
+<h1>Hi, I'm Jack, an <a href="https://linkedin.com/in/jack-menzl-63515a1b9">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
